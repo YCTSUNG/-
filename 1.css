@@ -7,10 +7,10 @@
   }
   .container{
     display: flex;
-    width: 750px;
+    width: 950px;
     margin: 0 auto;
     margin-top: 50px;
-    margin-left: 464px;
+    margin-left: 315px;
   }
   span{
     font-size: 50px;
@@ -18,7 +18,7 @@
     /* display: block; */
     text-align: center;
   }
-.add , .delete{
+.add , .delete , .update{
     width: fit-content;
     text-align: center;
     border-width: 5px;
